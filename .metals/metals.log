@@ -1793,3 +1793,28 @@ WARNING: Unmatched cancel notification for request id 33
 2026.07.04 04:44:33 INFO  no build target found for C:\Users\DANTECH\Downloads\StressChatbot\StressChatbot\src\main\scala\StressManagementChatbot.scala. Using presentation compiler with project's scala-library version: 3.3.7
 2026.07.04 04:44:33 INFO  no build target found for C:\Users\DANTECH\Downloads\StressChatbot\StressChatbot\src\main\scala\StressManagementChatbot.scala. Using presentation compiler with project's scala-library version: 3.3.7
 2026.07.04 04:46:31 INFO  no build target found for C:\Users\DANTECH\Downloads\StressChatbot\StressChatbot\src\main\scala\StressManagementChatbot.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.07.04 04:50:34 INFO  no build target found for C:\Users\DANTECH\Downloads\StressChatbot\StressChatbot\src\main\scala\StressManagementChatbot.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.07.04 04:52:35 INFO  no build target found for C:\Users\DANTECH\Downloads\StressChatbot\StressChatbot\src\main\scala\StressManagementChatbot.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.07.04 04:52:37 INFO  no build target found for C:\Users\DANTECH\Downloads\StressChatbot\StressChatbot\src\main\scala\StressManagementChatbot.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.07.04 04:52:48 INFO  no build target found for C:\Users\DANTECH\Downloads\StressChatbot\StressChatbot\src\main\scala\StressManagementChatbot.scala. Using presentation compiler with project's scala-library version: 3.3.7
+Exception in thread "pool-27-thread-1" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:208)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:153)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+2026.07.04 04:52:50 INFO  no build target found for C:\Users\DANTECH\Downloads\StressChatbot\StressChatbot\src\main\scala\StressManagementChatbot.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.07.04 04:52:53 INFO  no build target found for C:\Users\DANTECH\Downloads\StressChatbot\StressChatbot\src\main\scala\StressManagementChatbot.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.07.04 04:53:03 INFO  no build target found for C:\Users\DANTECH\Downloads\StressChatbot\StressChatbot\src\main\scala\StressManagementChatbot.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.07.04 04:53:10 INFO  no build target found for C:\Users\DANTECH\Downloads\StressChatbot\StressChatbot\src\main\scala\StressManagementChatbot.scala. Using presentation compiler with project's scala-library version: 3.3.7
+Jul 04, 2026 4:53:10 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.07.04 04:53:11 INFO  no build target found for C:\Users\DANTECH\Downloads\StressChatbot\StressChatbot\src\main\scala\StressManagementChatbot.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.07.04 04:53:28 INFO  no build target found for C:\Users\DANTECH\Downloads\StressChatbot\StressChatbot\src\main\scala\StressManagementChatbot.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.07.04 04:53:39 INFO  Shutting down server
+2026.07.04 04:53:39 INFO  Memory monitor stopped
+2026.07.04 04:53:39 INFO  shutting down Metals
+2026.07.04 04:53:39 INFO  Shut down connection with build server.
+2026.07.04 04:53:39 INFO  Shut down connection with build server.
+2026.07.04 04:53:39 INFO  Exiting server
