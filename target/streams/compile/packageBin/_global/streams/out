@@ -1,0 +1,35 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging C:\Users\DANTECH\Downloads\StressChatbot\target\scala-3.3.1\stresschatbot_3-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ChatMessage$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\DANTECH\Downloads\StressChatbot\target\scala-3.3.1\classes\ChatMessage$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ChatMessage.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\DANTECH\Downloads\StressChatbot\target\scala-3.3.1\classes\ChatMessage.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ChatMessage.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\DANTECH\Downloads\StressChatbot\target\scala-3.3.1\classes\ChatMessage.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\DANTECH\Downloads\StressChatbot\target\scala-3.3.1\classes\Main$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\DANTECH\Downloads\StressChatbot\target\scala-3.3.1\classes\Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\DANTECH\Downloads\StressChatbot\target\scala-3.3.1\classes\Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\DANTECH\Downloads\StressChatbot\target\scala-3.3.1\classes\Main.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StressChatbot.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\DANTECH\Downloads\StressChatbot\target\scala-3.3.1\classes\StressChatbot.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StressChatbot.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\DANTECH\Downloads\StressChatbot\target\scala-3.3.1\classes\StressChatbot.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StressChatbotGUI$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\DANTECH\Downloads\StressChatbot\target\scala-3.3.1\classes\StressChatbotGUI$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StressChatbotGUI$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\DANTECH\Downloads\StressChatbot\target\scala-3.3.1\classes\StressChatbotGUI$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StressChatbotGUI.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\DANTECH\Downloads\StressChatbot\target\scala-3.3.1\classes\StressChatbotGUI.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StressChatbotGUI.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\DANTECH\Downloads\StressChatbot\target\scala-3.3.1\classes\StressChatbotGUI.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Technique$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\DANTECH\Downloads\StressChatbot\target\scala-3.3.1\classes\Technique$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Technique.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\DANTECH\Downloads\StressChatbot\target\scala-3.3.1\classes\Technique.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Technique.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\DANTECH\Downloads\StressChatbot\target\scala-3.3.1\classes\Technique.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
